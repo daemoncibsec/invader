@@ -1,6 +1,6 @@
 from pynput import keyboard
 
-code = def on_press(key):
+def on_press(key):
     print(f"{key}")
 
 if __name__ == "__main__":
